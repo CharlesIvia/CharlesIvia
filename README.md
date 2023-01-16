@@ -5,7 +5,7 @@
 
 I'm a software developer with 3+ years of experience creating web applications with bespoke UI and UX. My passion is web & mobile applications development: programming, design (UI and UX), good application design and data.
 
-### Skills
+#### Skills
 
 ![](https://img.shields.io/badge/Javascript-0A1A2F?style=flat&logo=javascript&logoColor=00d8fd)
 ![](https://img.shields.io/badge/React-0A1A2F?style=flat&logo=react&logoColor=00d8fd)
@@ -13,7 +13,7 @@ I'm a software developer with 3+ years of experience creating web applications w
 ![](https://img.shields.io/badge/Typescript-0A1A2F?style=flat&logo=typescript&logoColor=00d8fd)
 ![](https://img.shields.io/badge/Next.js-0A1A2F?style=flat&logo=next.js&logoColor=00d8fd)
 
-Tools
+#### Tools
 
 ![](https://img.shields.io/badge/Git-0A1A2F?style=flat&logo=git)
 ![](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)

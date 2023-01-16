@@ -7,14 +7,14 @@ I'm a software developer with 3+ years of experience creating web applications w
 
 ### Skills
 
-![](https://img.shields.io/badge/Javascript-f5d742?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Javascript-f5d742?style=flat&logo=javascript&logoColor=00d8fd)
+![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=00d8fd)
 ![](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
-![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=00d8fd)
+![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=00d8fd)
 
 Tools
 
-![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
 ![](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)

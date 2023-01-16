@@ -3,7 +3,7 @@
 [![linkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/charles-ivia-6a2828134/)
 [![gmail](https://img.shields.io/badge/-iviacharles@gmail.com-grey?style=flat-square&logo=gmail)](mailto://iviacharles@gmail.com)
 
-I'm a software developer with 3+ years of experience creating web applications with bespoke UI and UX. My passion is web & mobile applications development: programming, design (UI and UX), good application design and data.
+I'm a software developer with 3+ years of experience creating web applications with bespoke UI and UX. My passion is web & mobile applications development: programming, design (UI and UX), good application architecture and data.
 
 #### Skills
 
